@@ -1,2 +1,2 @@
-var variablestring = 2+1
+var variablestring = 
 alert(variablestring)
